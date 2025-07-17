@@ -1,4 +1,4 @@
-# Suraj Kharkwal
+# [Suraj Kharkwal](https://surajkharkwal.vercel.app)
 
 **B.Tech CSE Student**  
 Jaypee University of Information Technology (Expected July 2027)  
@@ -11,26 +11,21 @@ I am a Computer Science undergraduate passionate about building real-world tools
 
 ## Technical Skills
 
-**Frontend**: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript  
-**Backend**: Node.js, Server Actions, Express.js, API Routes, Rust (basic), Tauri  
-**Database**: Prisma, MongoDB, PostgreSQL
+- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript  
+- **Backend**: Node.js, Server Actions, Express.js, API Routes, Rust (basic), Tauri  
+- **Database**: Prisma, MongoDB, PostgreSQL
 
 ## Projects
 
-**Inventory Manager**  
+- **[Inventory Manager](https://inventory-mgr-home.vercel.app/)**  
 An inventory system for shopkeepers with stock tracking, team management, and real-time updates.  
-[Live Project](https://inventory-mgr-home.vercel.app/)
 
-**EnvGuard (NPM Package)**  
+
+- **[Env Guard](https://envgaurd.vercel.app/)**  
 An NPM package to manage environment variables securely across environments.  
-[Live Project](https://envgaurd.vercel.app/)
 
-**Chess Add**  
-Chess move validator and board logic engine.  
-[GitHub Repository](https://github.com/SurajKharkwal)
-
-**JUIT Timetable App**  
+- **[Juit Timetable](https://juit-timetable)**  
 Parses Excel-based college timetables and renders a clean view for students.  
-[GitHub Repository](https://github.com/SurajKharkwal)
+
 
 
