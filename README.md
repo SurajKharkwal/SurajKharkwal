@@ -24,7 +24,7 @@ An inventory system for shopkeepers with stock tracking, team management, and re
 - **[Env Guard](https://envgaurd.vercel.app/)**  
 An NPM package to manage environment variables securely across environments.  
 
-- **[Juit Timetable](https://juit-timetable)**  
+- **[Juit Timetable](https://juit-timetable.vercel.app)**  
 Parses Excel-based college timetables and renders a clean view for students.  
 
 
